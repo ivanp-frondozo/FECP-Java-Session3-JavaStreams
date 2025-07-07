@@ -3,4 +3,4 @@
 ## Name: Ivan Patrick Frondozo
 
 ### Output:
-![Output](images/Screenshot-Output)
+![Output](images/Screenshot-Output.png)
