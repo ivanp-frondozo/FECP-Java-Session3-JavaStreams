@@ -1,6 +1,6 @@
-#Quiz 1: Java Streams: Basic Foundational programming
+# Quiz 1: Java Streams: Basic Foundational Programming
 
 ## Name: Ivan Patrick Frondozo
 
 ### Output:
-![Output](image/Screenshot-Output)
+![Output](images/Screenshot-Output)
